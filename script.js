@@ -41,7 +41,7 @@ function entrar(){
   })
    
   if(usuario.value == userValid.user && senha.value == userValid.senha){
-    window.location.href = 'https://cdpn.io/thicode/debug/abpVEeB/jVMpoEDNzPxk'
+    window.location.href = 'https://mariasatelier.github.io/Marias-atelier-lnicio/'
     
     let mathRandom = Math.random().toString(16).substr(2)
     let token = mathRandom + mathRandom
